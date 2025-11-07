@@ -38,7 +38,7 @@ Clone the repository and run the script:
 
 ```bash
 git clone https://github.com/Rian-Batista-Rx4n/word-search
-cd word-search-generator
+cd word-search
 python3 word_search.py
 ```
 
